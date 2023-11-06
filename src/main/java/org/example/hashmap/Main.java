@@ -1,6 +1,5 @@
-package org.example;
+package org.example.hashmap;
 
-import java.time.LocalDateTime;
 import java.util.*;
 
 public class Main {
