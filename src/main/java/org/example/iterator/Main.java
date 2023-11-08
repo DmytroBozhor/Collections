@@ -18,6 +18,7 @@ public class Main {
 
         while (iterator.hasNext()) {
             System.out.println(iterator.next());
+            iterator.remove();
         }
 
     }
